@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "app-mergeDebugResources-6:/values-az/values-az.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/f223b1e076451c075dd74021da2a00f6/transformed/core-1.7.0/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
