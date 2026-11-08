@@ -1,0 +1,11 @@
+app-lifecycle-runtime-2.3.1-0 /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/3090b466a49ce2b153385fbbb5e3cde5/transformed/lifecycle-runtime-2.3.1/res
+app-jetified-annotation-experimental-1.1.0-1 /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/319bc21d333119cc1bf618fe86cb03f9/transformed/jetified-annotation-experimental-1.1.0/res
+app-documentfile-1.1.0-2 /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/5245745dd0e3941ce8e4b864f263cce0/transformed/documentfile-1.1.0/res
+app-core-1.7.0-3 /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/f223b1e076451c075dd74021da2a00f6/transformed/core-1.7.0/res
+app-pngs-4 /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/build/generated/res/pngs/debug
+app-resValues-5 /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/build/generated/res/resValues/debug
+app-packageDebugResources-6 /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+app-packageDebugResources-7 /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+app-debug-8 /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/build/intermediates/merged_res/debug/mergeDebugResources
+app-debug-9 /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/debug/res
+app-main-10 /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/res
