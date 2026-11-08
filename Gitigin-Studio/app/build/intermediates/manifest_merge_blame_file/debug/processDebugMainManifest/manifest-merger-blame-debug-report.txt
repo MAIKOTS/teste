@@ -1,0 +1,58 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.gitigin.studio"
+4    android:versionCode="1"
+5    android:versionName="1.00" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="36" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:3:5-67
+11-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:3:22-64
+12
+13    <application
+13-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:5:5-18:19
+14        android:allowBackup="true"
+14-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:7:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.7.0] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/f223b1e076451c075dd74021da2a00f6/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:extractNativeLibs="true"
+18        android:label="Gitigin Studio"
+18-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:6:9-39
+19        android:theme="@android:style/Theme.Material.Light.DarkActionBar" >
+19-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:8:9-74
+20        <activity
+20-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:10:9-15:20
+21            android:name="app.MainActivity"
+21-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:10:19-47
+22            android:exported="true" >
+22-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:10:48-71
+23            <intent-filter>
+23-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:11:13-14:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:12:17-69
+24-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:12:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:13:17-77
+26-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:13:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity
+29-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:16:9-83
+30            android:name="app.AtividadeRepositorio"
+30-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:16:19-55
+31            android:exported="false" />
+31-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:16:56-80
+32        <activity
+32-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:17:9-78
+33            android:name="app.AtividadeEditor"
+33-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:17:19-50
+34            android:exported="false" />
+34-->/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:17:51-75
+35    </application>
+36
+37</manifest>
