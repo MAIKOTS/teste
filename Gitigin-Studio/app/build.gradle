@@ -1,0 +1,60 @@
+plugins {
+    alias(libs.plugins.android.application)
+}
+
+android {
+    namespace = "app"
+    compileSdk = 36
+
+    defaultConfig {
+        applicationId = "com.gitigin.studio"
+        minSdk = 24
+        targetSdk = 36
+        versionCode = 1
+        versionName = "1.00"
+
+        resourceConfigurations += ["pt-rBR"]
+        multiDexEnabled = false
+    }
+    
+    packagingOptions {
+        jniLibs {
+            useLegacyPackaging true
+        }
+    }
+    
+    buildTypes {
+        debug {
+            crunchPngs = false
+            minifyEnabled = false
+            shrinkResources = false
+        }
+
+        release {
+            minifyEnabled = true
+            shrinkResources = true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    packaging {
+        resources {
+            excludes += [
+                'kotlin/**',
+                '**/*.kotlin_builtins',
+                '**/*.bin',
+                'DebugProbesKt.bin',
+                'META-INF/**'
+            ]
+        }
+    }
+}
+
+dependencies {
+    implementation 'androidx.documentfile:documentfile:1.1.0'
+}
