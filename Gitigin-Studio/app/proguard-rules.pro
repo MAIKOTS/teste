@@ -1,0 +1,3 @@
+-keep public class app.MainActivity { *; }
+-keep public class ui.** { *; }
+-keep public class modelo.** { *; }
