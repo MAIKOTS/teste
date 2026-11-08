@@ -1,0 +1,4 @@
+#Sun Nov 08 20:12:25 GMT 2026
+base.0=/storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
