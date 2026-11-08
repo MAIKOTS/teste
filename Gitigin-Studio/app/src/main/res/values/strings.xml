@@ -1,0 +1,5 @@
+<resources>
+        <string name="nome_app">Gitigin Studio</string>
+        <string name="descricao_servico">Monitora a tela para bloquear conteúdo impróprio automaticamente.</string>
+        <string name="nome_servico">Bloqueio de conteúdo</string>
+</resources>
