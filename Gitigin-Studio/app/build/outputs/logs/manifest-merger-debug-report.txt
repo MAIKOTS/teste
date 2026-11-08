@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.documentfile:documentfile:1.1.0] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/5245745dd0e3941ce8e4b864f263cce0/transformed/documentfile-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.7.0] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/f223b1e076451c075dd74021da2a00f6/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/3090b466a49ce2b153385fbbb5e3cde5/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/026e405781716904336b56045fd137e0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/aeb0712d148b0847f059cc2f227dcabf/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/319bc21d333119cc1bf618fe86cb03f9/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:3:22-64
+application
+ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:5:5-18:19
+INJECTED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [androidx.core:core:1.7.0] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/f223b1e076451c075dd74021da2a00f6/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/f223b1e076451c075dd74021da2a00f6/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/026e405781716904336b56045fd137e0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/026e405781716904336b56045fd137e0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/f223b1e076451c075dd74021da2a00f6/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:6:9-39
+	android:allowBackup
+		ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:8:9-74
+activity#app.MainActivity
+ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:10:9-15:20
+	android:exported
+		ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:10:48-71
+	android:name
+		ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:10:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:13:27-74
+activity#app.AtividadeRepositorio
+ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:16:9-83
+	android:exported
+		ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:16:56-80
+	android:name
+		ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:16:19-55
+activity#app.AtividadeEditor
+ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:17:9-78
+	android:exported
+		ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:17:51-75
+	android:name
+		ADDED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml:17:19-50
+uses-sdk
+INJECTED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml
+INJECTED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml
+MERGED from [androidx.documentfile:documentfile:1.1.0] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/5245745dd0e3941ce8e4b864f263cce0/transformed/documentfile-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.documentfile:documentfile:1.1.0] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/5245745dd0e3941ce8e4b864f263cce0/transformed/documentfile-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.7.0] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/f223b1e076451c075dd74021da2a00f6/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/f223b1e076451c075dd74021da2a00f6/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/3090b466a49ce2b153385fbbb5e3cde5/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/3090b466a49ce2b153385fbbb5e3cde5/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/026e405781716904336b56045fd137e0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/026e405781716904336b56045fd137e0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/aeb0712d148b0847f059cc2f227dcabf/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/aeb0712d148b0847f059cc2f227dcabf/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/319bc21d333119cc1bf618fe86cb03f9/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /data/data/com.qamar.ide.java/files/home/.gradle/caches/9.6.1/transforms/319bc21d333119cc1bf618fe86cb03f9/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /storage/emulated/0/Projetos_JsStudio/Gitigin-Studio/app/src/main/AndroidManifest.xml
