@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+string descricao_servico
+string nome_app
+string nome_servico
+style LabelConfig
+style Theme.MaikoTS
