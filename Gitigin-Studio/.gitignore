@@ -1,0 +1,31 @@
+# Binários são gerenciados pelo Git LFS, não ignorar
+# *.so
+# *.a
+# *.o# Gradle
+.gradle/
+build/
+*/build/
+#gradle/wrapper/gradle-wrapper.jar
+
+# Android
+*.apk
+*.aab
+*.ap_
+*.dex
+local.properties
+.cxx/
+captures/
+
+# Binários grandes (opcional, mas recomendado)
+*.so
+*.a
+*.o
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
